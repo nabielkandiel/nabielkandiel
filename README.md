@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nabielkandiel
-- 👀 I’m interested in AI and Machine Learning with a focus on Deep Learning and Computer Vision 
-  - as well as Application and Firmware Engineering
-- 🌱 I’m currently learning Machine Learning using Andrew Ng's Coursera course Machine Learning
+- 👀 I’m interested in High Performance and Low Latency programming, mainly in C++
+- 🌱 I’m currently attending Georgia Tech through the OMSCS program
 - 📫 nabkan5@gmail.com is the best way to reach me
 - :rocket: https://www.linkedin.com/in/nabiel-kandiel/
 
