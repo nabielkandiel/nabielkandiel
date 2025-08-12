@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nabielkandiel
-- 👀 I’m interested in High Performance and Low Latency programming, mainly in C++
-- 🌱 I’m currently attending Georgia Tech through the OMSCS program
+- 👀 I’m interested in Low Latency and Systems programming, mainly in C++ and rust
+- 🌱 I’m currently currenlty work at Pico Quantitative Trading building trading systems
 - 📫 nabkan5@gmail.com is the best way to reach me
 - :rocket: https://www.linkedin.com/in/nabiel-kandiel/
 
